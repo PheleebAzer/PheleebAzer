@@ -1,7 +1,8 @@
 My name is Pheleeb Azer and I am a data analyst.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Business Intelligence Projects
-- 📫 How to reach me Pheleebazer@yahoo.com
+- I’m currently learning SQL
+- I’m looking to collaborate on Business Intelligence Projects
+- Loads of sales and finance experince 
+- How to reach me Pheleebazer@yahoo.com
 
 <!---
 PheleebAzer/PheleebAzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
